@@ -1,8 +1,20 @@
-<h1>Hello World!!</h1>
-<p>KADOKAWAドワンゴ情報工科学院所属</p>
-<p>バイト先でシステムを組んでいる</p>
+# Hi there, I'm OhmuraYuta 👍
 
-<h2>🚀 Languages and Tools I Use</h2>
+### About Me
+
+KADOKAWAドワンゴ情報工科学院 名古屋校所属<br>
+小さい頃からブロックあそびが好きだったが、Webアプリとして自分の考えたものが動く楽しさを感じている<br>
+バイト先で、急に明日シフト入ってくれと言われても、友達に急にラーメンに誘われても対応できるくらい、フットワークが軽い<br>
+
+### Experience
+
+ECサイトへの出品も行なっている家具屋のバイト先で、在庫管理システムやお客様への出荷通知を効率化するChrome拡張機能を組んでいる<br>
+
+### Future Goal
+
+将来的にはセキュリティエンジニアになりたいが新卒では難しいので、まずはWebエンジニアを目指している<br>
+
+## 🚀 Languages and Tools I Use
 
 [![My Skills](https://skillicons.dev/icons?i=py,django,js,ts,nodejs,nextjs,html,css,tailwind,java,mysql,postgres,nginx,docker,git,bash,linux,vim)](https://skillicons.dev)
 
