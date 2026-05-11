@@ -19,4 +19,4 @@ ECサイトへの出品も行なっている家具屋のバイト先で、在庫
 [![My Skills](https://skillicons.dev/icons?i=py,django,js,ts,nodejs,nextjs,html,css,tailwind,java,mysql,postgres,nginx,docker,git,bash,linux,vim)](https://skillicons.dev)
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=OhmuraYuta&theme=whatsapp-dark" alt="OhmuraYuta" /></p>
-<p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy-kannan.vercel.app/?username=OhmuraYuta&theme=darkhub" alt="OhmuraYuta" /></a></p>
+<p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://trophy.benkou.dev/?username=OhmuraYuta&theme=darkhub" alt="OhmuraYuta" /></a></p>
