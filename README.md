@@ -16,7 +16,7 @@ ECサイトへの出品も行なっている家具屋のバイト先で、在庫
 
 ## 🚀 Languages and Tools I Use
 
-[![My Skills](https://skillicons.dev/icons?i=py,django,js,ts,nodejs,nextjs,html,css,tailwind,java,mysql,postgres,nginx,docker,git,bash,linux,vim)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,django,js,ts,nodejs,nextjs,react,html,css,tailwind,java,spring,mysql,postgres,nginx,cloudflare,docker,git,github,bash,linux,vscode,vim)](https://skillicons.dev)
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=OhmuraYuta&theme=whatsapp-dark" alt="OhmuraYuta" /></p>
 <p align="center"><img align="center" src="https://readme-stats.ohmura.workers.dev/" alt="OhmuraYuta" /></p>
