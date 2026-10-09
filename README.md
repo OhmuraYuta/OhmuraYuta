@@ -20,4 +20,4 @@ ECサイトへの出品も行なっている家具屋のバイト先で、在庫
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=OhmuraYuta&theme=whatsapp-dark" alt="OhmuraYuta" /></p>
 <p align="center"><img align="center" src="https://readme-stats.ohmura.workers.dev/" alt="OhmuraYuta" /></p>
-<p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://trophy.benkou.dev/?username=OhmuraYuta&theme=darkhub" alt="OhmuraYuta" /></a></p>
+<p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy-ochre-gamma.vercel.app/?username=OhmuraYuta&theme=darkhub" alt="OhmuraYuta" /></a></p>
